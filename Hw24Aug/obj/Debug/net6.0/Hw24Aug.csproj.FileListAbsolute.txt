@@ -1,0 +1,14 @@
+C:\Users\ferid\source\repos\Hw24Aug\Hw24Aug\bin\Debug\net6.0\Hw24Aug.exe
+C:\Users\ferid\source\repos\Hw24Aug\Hw24Aug\bin\Debug\net6.0\Hw24Aug.deps.json
+C:\Users\ferid\source\repos\Hw24Aug\Hw24Aug\bin\Debug\net6.0\Hw24Aug.runtimeconfig.json
+C:\Users\ferid\source\repos\Hw24Aug\Hw24Aug\bin\Debug\net6.0\Hw24Aug.dll
+C:\Users\ferid\source\repos\Hw24Aug\Hw24Aug\bin\Debug\net6.0\Hw24Aug.pdb
+C:\Users\ferid\source\repos\Hw24Aug\Hw24Aug\obj\Debug\net6.0\Hw24Aug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferid\source\repos\Hw24Aug\Hw24Aug\obj\Debug\net6.0\Hw24Aug.AssemblyInfoInputs.cache
+C:\Users\ferid\source\repos\Hw24Aug\Hw24Aug\obj\Debug\net6.0\Hw24Aug.AssemblyInfo.cs
+C:\Users\ferid\source\repos\Hw24Aug\Hw24Aug\obj\Debug\net6.0\Hw24Aug.csproj.CoreCompileInputs.cache
+C:\Users\ferid\source\repos\Hw24Aug\Hw24Aug\obj\Debug\net6.0\Hw24Aug.dll
+C:\Users\ferid\source\repos\Hw24Aug\Hw24Aug\obj\Debug\net6.0\refint\Hw24Aug.dll
+C:\Users\ferid\source\repos\Hw24Aug\Hw24Aug\obj\Debug\net6.0\Hw24Aug.pdb
+C:\Users\ferid\source\repos\Hw24Aug\Hw24Aug\obj\Debug\net6.0\Hw24Aug.genruntimeconfig.cache
+C:\Users\ferid\source\repos\Hw24Aug\Hw24Aug\obj\Debug\net6.0\ref\Hw24Aug.dll
