@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ferid\\source\\repos\\Hw24Aug\\Hw24Aug\\Hw24Aug.csproj": {}
+    "C:\\Users\\ffati\\OneDrive\\Desktop\\HwFor24Augustt\\Hw24Aug\\Hw24Aug.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ferid\\source\\repos\\Hw24Aug\\Hw24Aug\\Hw24Aug.csproj": {
+    "C:\\Users\\ffati\\OneDrive\\Desktop\\HwFor24Augustt\\Hw24Aug\\Hw24Aug.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ferid\\source\\repos\\Hw24Aug\\Hw24Aug\\Hw24Aug.csproj",
+        "projectUniqueName": "C:\\Users\\ffati\\OneDrive\\Desktop\\HwFor24Augustt\\Hw24Aug\\Hw24Aug.csproj",
         "projectName": "Hw24Aug",
-        "projectPath": "C:\\Users\\ferid\\source\\repos\\Hw24Aug\\Hw24Aug\\Hw24Aug.csproj",
-        "packagesPath": "C:\\Users\\ferid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ferid\\source\\repos\\Hw24Aug\\Hw24Aug\\obj\\",
+        "projectPath": "C:\\Users\\ffati\\OneDrive\\Desktop\\HwFor24Augustt\\Hw24Aug\\Hw24Aug.csproj",
+        "packagesPath": "C:\\Users\\ffati\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ffati\\OneDrive\\Desktop\\HwFor24Augustt\\Hw24Aug\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ferid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ffati\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }
